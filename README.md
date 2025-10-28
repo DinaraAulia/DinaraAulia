@@ -17,13 +17,6 @@
 
 ---
 
-## ✨ Highlight Projects
-- 🔹 **Six Dots** – Assistive Braille Learning App *(UI/UX Designer)*  
-- 🔹 **Kosme** – Boarding House Booking Website *(Front-End Developer)*  
-- 🔹 **Melodify** – Music Discovery Web App *(UI/UX Designer)*  
-
----
-
 ## 📊 GitHub Stats
 ![Dinara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinaraaulia&show_icons=true&theme=tokyonight)
 
